@@ -2,17 +2,12 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/4d2eb252-b385-4dbe-9672-22111197c4b5
+**URL**: https://luxury-sheen-45141509.figma.site
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/4d2eb252-b385-4dbe-9672-22111197c4b5) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
+.
 
 **Use your preferred IDE**
 
